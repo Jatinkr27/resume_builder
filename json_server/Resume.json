@@ -1,0 +1,94 @@
+{
+	"aboutme": {
+		"name": "Jatin Kumar",
+		"image": "https://completesmilesvs.com.au/wp-content/uploads/2020/05/Temp-Profile-pic-300x300.jpeg",
+		"summary": "“Hi, I am Jatin. I am from Ranchi. I completed my MCA from BIT Mesra,Ranchi. My hobbies include playing video games, watching web series and exploring new places."
+	},
+
+	"professional": {
+		"summary": "I am fresher. Currently working on front-end technology.",
+		"skills": [{
+				"skill": "JavaScript",
+				"level": 4
+			},
+			{
+				"skill": "Jquery",
+				"level": 3
+			},
+			{
+				"skill": "Python",
+				"level": 4
+			}
+			,
+			{
+				"skill": "HTML5",
+				"level": 5
+			}
+			,
+			{
+				"skill": "CSS",
+				"level": 4
+			},
+			{
+				"skill": "Java",
+				"level": 3
+			}
+		]
+	},
+
+	"projects": [{
+		"projectName": "Resume Generator",
+		"projectDes": "It genertates resume for viewing and downloading purpose.",
+		"contribution": "front-end development and ajax.",
+		"technology": ["React", "Json","Axios Lib"],
+		"link": "url of project"
+	}
+],
+
+	"education": [{
+		"institution": "BIT Mesra",
+		"course": "MCA",
+		"location": "Ranchi",
+		"yop": "2022-07-01"
+	},
+	{
+		"institution": "Gossner College",
+		"course": "BCA",
+		"location": "Ranchi",
+		"yop": "2020-07-01"
+	},
+	{
+		"institution": "DAV Hehal",
+		"course": "12th",
+		"location": "Ranchi",
+		"yop": "2017-07-01"
+	}
+	,
+	{
+		"institution": "DAV Hehal",
+		"course": "10th",
+		"location": "Ranchi",
+		"yop": "2015-07-01"
+	}
+	,
+	{
+		"institution": "BIT Mesra",
+		"course": "MCA",
+		"location": "Ranchi",
+		"yop": "2022-07-01"
+	}
+],
+
+	"contact": {
+		"email": "jatinkumar7@deloitte.com",
+		"telegram": "telegram url",
+		"phone": 9102007474
+	},
+
+	"social": {
+		"linkedin": "LinkedIn url",
+		"github": "https://github.com/Jatinkr27?tab=repositories",
+		"dpn": "dpn profile url"
+	}
+
+}
